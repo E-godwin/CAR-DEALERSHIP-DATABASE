@@ -10,8 +10,10 @@
 - [Contact](#contact)
 ---
 ## Project Overview
-A fully structured **MySQL database** for managing a car dealership's core operations, including **employees, payroll, attendance, departments, offices, and roles**.  
+A fully structured **MySQL database** for managing a car dealership's core operations, including **employees, payroll, attendance, departments, offices, and roles**.
+
 The project also includes an **ERD diagram**, ready for portfolio showcasing.
+<img width="718" height="488" alt="erd" src="https://github.com/user-attachments/assets/3d1c3cd7-20f8-48ea-ae5d-dc35f1e47ca5" />
 
 ---
 
