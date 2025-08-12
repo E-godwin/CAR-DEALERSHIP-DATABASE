@@ -7,6 +7,7 @@
 - [SQL Files](#sql-files)
 - [Interesting Query Statements](#some-interesting-query-statements-that-helped)
 - [Tech Stack](#tech-stack)
+- [Contact](#contact)
 ---
 ## Project Overview
 A fully structured **MySQL database** for managing a car dealership's core operations, including **employees, payroll, attendance, departments, offices, and roles**.  
@@ -75,3 +76,8 @@ The above statement re-enables foreign key constraint checks, restoring the inte
 ## Tech Stack
 - Database: MySQL 8+
 - Modeling Tool: MySQL Workbench
+
+--- 
+## Contact
+You find this interesting, you can reach out to me via
+godwinezekiel2019@gmail.com
